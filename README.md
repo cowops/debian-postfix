@@ -23,7 +23,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: loranger.debian-postfix }
+         - { role: cowops.debian-postfix }
 
 Tasks
 -----
